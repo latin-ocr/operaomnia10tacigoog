@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomnia10tacigoog/operaomnia10tacigoog_0002.png"; bbox 0 0 3009 4942; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 996 2306 2201 2438">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 996 2306 2201 2438">
+     <span class='ocr_line' id='line_1_1' title="bbox 996 2306 2201 2438; baseline 0.009 -35"><span class='ocrx_word' id='word_1_1' title='bbox 996 2314 1152 2402; x_wconf 82' lang='lat' dir='ltr'><strong>Dr.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1184 2306 1408 2438; x_wconf 77' lang='lat' dir='ltr'><strong><em>John</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1444 2310 1869 2410; x_wconf 67' lang='lat' dir='ltr'><strong>Rathbone</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1909 2314 2201 2414; x_wconf 70' lang='lat' dir='ltr'><em>Oliver</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1072 2470 2121 2666">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1072 2470 2121 2666">
+     <span class='ocr_line' id='line_1_2' title="bbox 1388 2470 1809 2534; baseline -0.014 -8"><span class='ocrx_word' id='word_1_5' title='bbox 1388 2482 1557 2526; x_wconf 62' lang='grc' dir='ltr'><strong>*ΖΙ-1155</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1581 2486 1653 2526; x_wconf 63' lang='lat' dir='ltr'><strong>m*</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1677 2470 1809 2534; x_wconf 68' lang='lat'><strong>1394</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1072 2598 2121 2666; baseline 0.006 -16"><span class='ocrx_word' id='word_1_8' title='bbox 1072 2598 1172 2650; x_wconf 66' lang='lat' dir='ltr'><strong>DF</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1196 2598 1657 2666; x_wconf 63' lang='lat' dir='ltr'>EALTIMGRE</span> <span class='ocrx_word' id='word_1_10' title='bbox 1689 2602 2121 2658; x_wconf 67' lang='lat' dir='ltr'><strong>MARYLAHD</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1364 2818 1825 2874">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1364 2818 1825 2874">
+     <span class='ocr_line' id='line_1_4' title="bbox 1364 2818 1825 2874; baseline 0 -12"><span class='ocrx_word' id='word_1_11' title='bbox 1364 2818 1598 2862; x_wconf 63' lang='grc'><strong>1111111111</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1621 2822 1673 2874; x_wconf 71' lang='grc'><strong>4,</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1701 2822 1825 2874; x_wconf 71' lang='lat'><strong>1941</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 3009 4942">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 3009 4942">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 3009 4942; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 3009 4942; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
